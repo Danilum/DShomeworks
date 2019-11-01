@@ -1,4 +1,5 @@
-```rs.config:
+```
+rs.config:
 {
  "_id" : "replicaSet",
  "version" : 8,
