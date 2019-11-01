@@ -1,0 +1,47 @@
+#msg-box {
+    margin: 10px 0px 15px 0px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 75vh;
+}
+
+.msg {
+    padding: 10px;
+    display: block;
+}
+
+.msg-content {
+    margin: 0;
+    margin-top: 10px;
+}
+
+.message {
+    width: auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Heiti SC", Helvetica, sans-serif;
+    color: green;
+    background-color: greenyellow;
+}
+
+main {
+    margin: 10px;
+}
+
+header {
+    padding: 5px;
+    background-color: forestgreen;
+}
+
+
+
+.light {
+    background-color: red;
+}
+
+.dark {
+    background-color: green;
+}
